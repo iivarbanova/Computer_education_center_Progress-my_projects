@@ -1,0 +1,9 @@
+{
+	"person":{
+	"name":"Irena",
+	"gender":"Female",
+	"city":"Sofia",
+	"country":"Bulgaria",
+	"employed":"True"
+	}
+}
